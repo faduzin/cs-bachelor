@@ -24,3 +24,6 @@ Each curricular unit will have its own dedicated markdown file. The markdown fil
 Feel free to explore the content shared within this repository. Whether you're a fellow student seeking clarity, someone interested in computer science education, or simply curious, I hope you find value in this structured documentation of my academic journey.
 
 Happy learning! 🚀
+
+## 2025-1
+- 
