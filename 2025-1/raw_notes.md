@@ -52,3 +52,23 @@
 - - the government receives taxes from the families and has its deficits payed by the finantial market, and also the government expenses from the market of goods and services
 - - the market of goods and services provides revenue to the enterprises, which pays the factor of production market
 - - the rest of the world acts over this model by receiving exportation, getting factors payment and paying factors, then sending importations.
+
+## 14/04
+
+### Formal Languages and Automata
+
+- All languages have an alphabet, which is the group of symbols represented by the serial sum symbol.
+- A string is a finite sequence of symbols from an alphabet.
+- (the serial sum symbol) with and * represents all strings from an alphabet.
+- Language is a subset of the set of all strings from an alphabet.
+- Deterministic finite automata (DFA) is the first type we will study
+- Deterministic in this situation defines that each state will move to only one other state
+- In the visual representation, the triangle represents the initial state, and any double circle state is part of the set of final states.
+- When the string ends in a final state, it is a valid string, part of the language.
+- A DFA processes a string from left to right.
+- Q represents the finite set of states
+- δ is the transition function
+- q0 is the initial state
+- ∑ represents the input symbols
+- δ(q0, a) -> means that the transition function goes over a symbol a that is part of the ∑ from leftt to right and parts from a state, which in this case is the initial one.
+- If the input symbols is completely read and the final state is not a part of the set of final states, then that input set is not a string of the represented language.
