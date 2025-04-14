@@ -72,3 +72,24 @@
 - ∑ represents the input symbols
 - δ(q0, a) -> means that the transition function goes over a symbol a that is part of the ∑ from leftt to right and parts from a state, which in this case is the initial one.
 - If the input symbols is completely read and the final state is not a part of the set of final states, then that input set is not a string of the represented language.
+
+### Machine Learning and Pattern Recognition
+
+- Project structure:
+- - Introduction to show where the project could or will be used. The objective of the project must be mentioned, and what will be done must be shown specifically. "What, who and in which way?" with what you plan to do or contribute to.
+- - Problem description, which contains the mathematical model of the problem. This part defines the problem to be solved, which must be completely solved by the end of the project.
+- - Proposed method, describes what will be done in a general perspective and based on something.
+- - Computational experiments, the most important part, defines the benchmark. The paper must be autocontinuous, which means that it defines everything used, details the data with a table describing everypart, it also shows the quantity of each class. Hablation test and use of visualizations. 
+
+- Concepts:
+- - Soft Computing: eficient and low cost computation.
+- - Handcrafted features: LBP, SIET, KAZE -> Good to extract specific textures from the image. This has pros like improving the accuracy, using less resources and amenizes overfitting, but in counterpart, depends of parametrization and the accuracy is generally inferior to deep learning.
+- - Tensor: Image representation of a vector of vectors, each vector may have information like the mean, standard deviation, entropy, and may others, from a little section of the image. This little section has a defined size.
+- - CRISP DM: Compares your work with others, already done, projects.
+- - Hablation test: Tests each method individually and all combinations od methods. This proves that the combination of functionalities is what improves the accuracy.
+
+- Statistics review:
+- - Random variable is a function that associates a number to an event in the mostral space.
+- - The random variable is discrete if the space of numbers associate is finite, or better, if the possible values of that function are finete.
+- - The random variable is continuous if there is an infinite number of possible values.
+- - With DRV, we can use the amount of times a function leads to that outcome to define de probability of that outcome over all possible outcomes.
