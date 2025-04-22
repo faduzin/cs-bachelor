@@ -24,7 +24,6 @@ Each curricular unit will have its own dedicated markdown file. The markdown fil
 - [Formal Languages and Automata](2025-1/Formal_Languages_and_Automata.md)
 - [Introduction to Economics](2025-1/Introduction_to_Economics.md)
 - [Macroeconomics](2025-1/Macroeconomics.md)
-- [Digital Identities](2025-1/Digital_Identities.md)
 
 ## Usage
 
